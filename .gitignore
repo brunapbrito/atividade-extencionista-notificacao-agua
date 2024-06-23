@@ -1,0 +1,6 @@
+node_modules
+sengrid
+token
+twillo
+*.env
+!exemplo.env
